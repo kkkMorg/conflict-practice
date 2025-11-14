@@ -10,4 +10,3 @@ def fibo():
 if __name__ == '__main__':
     func = fibo()
     print(func(6))
-
