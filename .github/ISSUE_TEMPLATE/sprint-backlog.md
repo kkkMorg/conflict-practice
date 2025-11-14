@@ -13,7 +13,7 @@ assignees: ''
 
 ## Tasks
 
-- [] Item1
+- [ ] Item1
 
 ## References
 - [Link Text](Lind addr)
